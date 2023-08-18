@@ -14,11 +14,11 @@ The get_next_line consists of creating a function that reads a file descriptor l
 ## Usage
 #### 1st - Clone the repository
 ``` bash
-git@github.com:MartimPinto/get_next_line.git get_next_line
+git@github.com:pmagalha/get_next_line.git get_next_line
 ```
 #### 2nd - Enter the project folder and compile
 ``` bash
-cd get_next_line/src
+cd get_next_line/
 
 [Flags] -Wall -Wextra -Werror
 [Mandatory] cc [Flags] main.c get_next_line.c get_next_line_utils.c
